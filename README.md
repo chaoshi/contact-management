@@ -17,7 +17,7 @@ npm 3.10.10 and up
 npm install
 ```
 
-## Running server
+### Running server
 
 ```
 node server.js
@@ -33,7 +33,7 @@ cd client
 npm install
 ```
 
-## Running test
+### Running test
 
 ```
 npm test
@@ -50,7 +50,3 @@ npm start
 ```
 npm build
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
