@@ -1,0 +1,34 @@
+{
+  "name": "contact-management",
+  "version": "0.1.0",
+  "private": true,
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "prop-types": "^15.6.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-redux": "^5.0.7",
+    "reactstrap": "^6.4.0",
+    "redux": "^4.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.4.2",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "enzyme": "^3.5.0",
+    "enzyme-adapter-react-16": "^1.3.0",
+    "jest": "^23.5.0",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "jest",
+    "test:watch": "npm test -- --watch",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:4000/"
+}
